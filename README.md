@@ -131,6 +131,7 @@ Este projeto foi criado para praticar e consolidar:
 
 <h2> 🧠 Conceitos Praticados </h2>
 
+```
 CRUD básico com Spring Boot
 
 Requisições HTTP (GET, POST, PUT, DELETE)
@@ -140,10 +141,7 @@ Padrão MVC (Controller, DAO, Model)
 Configuração de banco H2 em memória
 
 Estrutura de projeto modular e limpa
-
-<h2> 🖼️ Demonstração </h2>
-
-Exemplo do projeto sendo executado no IntelliJ IDEA:
+```
 
 <h2> 🧑‍💻 Autor </h2>
 
