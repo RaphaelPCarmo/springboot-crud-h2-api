@@ -3,7 +3,6 @@
 Aplicação desenvolvida em **Java com Spring Boot**, integrando **HTML**, **Fetch API** e **H2 Database**.  
 O objetivo é praticar a comunicação **cliente-servidor**, manipulando dados entre o front-end e o back-end por meio de **requisições HTTP** e **serviços RESTful**.  
 
----
 
 ### 🛠️ Built with
 
@@ -13,7 +12,6 @@ O objetivo é praticar a comunicação **cliente-servidor**, manipulando dados e
 * ![Fetch API](https://img.shields.io/badge/Fetch%20API-0078D4?style=for-the-badge)
 * ![H2 Database](https://img.shields.io/badge/H2%20Database-003B57?style=for-the-badge&logo=h2&logoColor=white)
 
----
 
 <h2> ✨ Funcionalidades </h2>
 
@@ -23,7 +21,6 @@ O objetivo é praticar a comunicação **cliente-servidor**, manipulando dados e
 - 📋 Formulários dinâmicos com **Fetch API**
 - 🚀 Estrutura organizada em camadas (**Controller**, **DAO**, **Model**)
 
----
 
 <h2> 🚀 Como Executar o Projeto </h2>
 
